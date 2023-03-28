@@ -10,6 +10,7 @@
 - [Lab 8](https://github.com/vasu-1/ML_Labs/tree/main/Lab8)
 - [Lab 9](https://github.com/vasu-1/ML_Labs/tree/main/Lab9)
 - [Lab 10](https://github.com/vasu-1/ML_Labs/tree/main/Lab10)
-
+- [Lab 11](https://github.com/vasu-1/ML_Labs/tree/main/Lab11)
+- [Lab 12](https://github.com/vasu-1/ML_Labs/tree/main/Lab12)
 
 ##### Made With 💖 By [Vashishth Patel](https://vashisht.co/)
